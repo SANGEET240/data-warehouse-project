@@ -19,7 +19,7 @@ The data warehouse follows the **Medallion Architecture**, where data flows prog
 
 Source systems feed raw data into the Bronze layer, which is then transformed and standardized in the Silver layer, and finally exposed through analytical views in the Gold layer.
 
-![Data Flow Diagram](./Data%20Flow.png)
+![Data Flow Diagram](./PROJECT%20FILES/%23%20Project%20Diagrams/Data%20Flow.png)
 
 ---
 
