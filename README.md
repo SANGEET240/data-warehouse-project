@@ -62,7 +62,7 @@ Source systems feed raw data into the Bronze layer, which is then transformed an
 **Object Type:** Views  
 **Target Audience:** Data Analysts, Business Users
 
-![Medallion Architecture Summary](./Medallion%20Architecture%20in%20Brief.png)
+![Data Architecture Diagram](./PROJECT%20FILES/%23%20Project%20Diagrams/Data%20Architecture%20Diagram.png)
 
 ---
 
