@@ -11,7 +11,7 @@ The solution is implemented using **SQL Server**, with structured naming convent
 The data warehouse follows the **Medallion Architecture**, where data flows progressively from raw ingestion to business-ready outputs.
 
 ### 🔹 High-Level Architecture
-![Data Architecture Diagram](./Data%20Architecture%20Diagram.png)
+![Data Architecture Diagram](PROJECT FILES\# Project Diagrams\Medallion Architecture in Brief.png)
 
 ---
 
