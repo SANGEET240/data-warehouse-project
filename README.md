@@ -70,7 +70,7 @@ Source systems feed raw data into the Bronze layer, which is then transformed an
 
 CRM and ERP data are integrated in the Silver layer before being modeled into dimensions and fact views in the Gold layer.
 
-![Integration Model](./Integration%20Model.png)
+![Integration Model](./PROJECT%20FILES/%23%20Project%20Diagrams/Integration%20Model.png)
 
 ---
 
