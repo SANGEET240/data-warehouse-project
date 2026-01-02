@@ -91,10 +91,12 @@ All Gold layer objects are **VIEWS**, not permanent tables.
 
 ## 🧾 Naming Conventions
 
-A consistent naming standard is followed across all layers:
+Strict naming standards are followed across all layers to ensure **clarity, maintainability, and scalability**.
 
-```text
-bronze.<source>_<entity>
-silver.<source>_<entity>
-gold.dim_<entity>
-gold.fact_<entity>
+#### 🔹 General Principles
+- Naming style: `snake_case`
+- Language: English only
+- SQL reserved keywords are avoided
+- Consistent naming across all layers
+
+---
