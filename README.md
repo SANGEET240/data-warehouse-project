@@ -85,7 +85,7 @@ The Gold layer exposes a **Star Schema** optimized for reporting and analytics.
 📌 **Note:**  
 All Gold layer objects are **VIEWS**, not permanent tables.
 
-![Star Schema Diagram](./Star%20Schema%20Diagram%20%5B%20Gold%20Layer%20Table%20%5D.png)
+![Star Schema Diagram](./PROJECT%20FILES/%23%20Project%20Diagrams/Star%20Schema%20Diagram.png)
 
 ---
 
